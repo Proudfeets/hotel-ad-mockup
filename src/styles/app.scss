@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Open+Sans');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 1000px;
+  margin: auto;
+  background-color: #FAF6D0
+}
+
+h1 {
+  font-family: 'ABeeZee', serif;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.box {
+  background-color: #777777;
+  border-radius: 0.8em;
+  color: #30091E;
+  padding: 1em;
+  margin: 1em;
+  max-width: 667px;
+}
+
+.list {
+  background-color: #744F78;
+}
+
+.numbers {
+  background-color: #C7D8AB;
+}
+
+.picture {
+  background-color: #C7D8AB;
+}
+
+.wrapper {
+  background-color: #744F78;
+  color: #30091E;
+}
